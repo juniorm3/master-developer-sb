@@ -1,9 +1,9 @@
-package br.com.softblue.lambdastream;
+package br.com.softblue.lambdastream.streamapi;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Main2 {
+public class Main {
 	
 	public static void main(String[] args) {
 		List<String> words = List.of("CARLOS", "JOSÉ", "JOÃO", "JOANA", "MARIA", "CELSO");
